@@ -71,3 +71,7 @@ low as possible).
 
 You can use LNK304 or MP157, but you should update feedback resistors
 (according to chip datasheet) to make output 4.0-4.2 volts.
+
+### 100uF capacitor at step-down output
+
+Must be low ESR. Very good choice are [Solid Polymer Electrolytic Capacitor](https://lcsc.com/products/Solid-Polymer-Electrolytic-Capacitor_927.html).
